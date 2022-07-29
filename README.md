@@ -13,6 +13,7 @@
   Average case : the number we are looking for is in the middle
   Worst case : the number we are looking for is at the end
   Best case : the number we are looking for is in the beginning
+  
 4-)
 average case
 
